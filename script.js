@@ -82,13 +82,3 @@ gsap.from("#page4 .sections",{
     start:"top 40%",
   }
 })
-gsap.from("#footer .foot",{
-  opacity:0,
-  x:"-100",
-  stagger:.5,
-  scrollTrigger:{
-    scroller:"#main",
-    trigger:"#footer",
-    start:"top 70%",
-  }
-})
