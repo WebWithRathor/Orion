@@ -325,6 +325,7 @@ transform: scaleX(1);
 #footer{
     background-color:#080014;
     display: flex;
+    height: max-content;
     color: #c9c3d1;
     padding: 2.5vw;
 }
